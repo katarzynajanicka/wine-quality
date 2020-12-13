@@ -25,7 +25,7 @@ Python libraries:
   
 ## Setup
 
-Input data: winequality-white.csv,a dataset from Kaggle: https://www.kaggle.com/piyushagni5/white-wine-quality.
+Input data: winequality-white.csv, a dataset from Kaggle: https://www.kaggle.com/piyushagni5/white-wine-quality.
 
 Output data: wine-quality.ipynb (Jupyter notebook)
 
