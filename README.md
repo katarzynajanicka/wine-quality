@@ -1,7 +1,7 @@
 # wine-quality
  Life is too short to drink bad wine. Which features are the most indicative of a good quality wine?
 
-<img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/scikitlearn-0.23.2-blue'> <img src='https://img.shields.io/badge/pandas-1.1.3-blue'> <img src='https://img.shields.io/badge/numpy-1.19.2-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.2 -blue"> <img src="https://img.shields.io/badge/seaborn-0.11.0 -blue"> <img src="https://img.shields.io/badge/supervised-machine--learning-ff69b4"> <img src="https://img.shields.io/badge/classification-problem-ff69b4"> <img src="https://img.shields.io/badge/feature-%20selection-ff69b4">
+<img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/scikitlearn-0.23.2-blue'> <img src='https://img.shields.io/badge/pandas-1.1.3-blue'> <img src='https://img.shields.io/badge/numpy-1.19.2-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.2 -blue"> <img src="https://img.shields.io/badge/seaborn-0.11.0 -blue"> <img src="https://img.shields.io/badge/supervised-machine--learning-ff69b4"> <img src="https://img.shields.io/badge/classification-problem-ff69b4"> <img src="https://img.shields.io/badge/feature-%20selection-ff69b4"> <img src="https://img.shields.io/badge/feature-%20extraction-ff69b4">
 
 ## Table of contents
 * [General info](#general-info)
