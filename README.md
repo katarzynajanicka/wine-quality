@@ -11,7 +11,7 @@
 * [Status](#status)
 
 ## General info
-Feature selection for classification.
+Wine quality classification project.
 
 ## Technologies
 Project is created with Python - version: 3.8.2.
