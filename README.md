@@ -38,4 +38,4 @@ Output data: wine-quality.ipynb (Jupyter notebook)
 **Findings**
 
 ## Status
-Project is in progress.
+Project is ready.
