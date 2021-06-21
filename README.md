@@ -29,13 +29,5 @@ Input data: winequality-white.csv, a dataset from Kaggle: https://www.kaggle.com
 
 Output data: wine-quality.ipynb (Jupyter notebook)
 
-## Results
-
-**Project structure**
-
-**Data structure**
-
-**Findings**
-
 ## Status
 Project is ready.
